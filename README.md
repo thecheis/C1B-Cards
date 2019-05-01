@@ -7,7 +7,7 @@
 
 ### Download and vote
 
-C1B Cards are available on [OpenDesktop.org](https://www.opendesktop.org)
+C1B Cards are available on [OpenDesktop.org](hhttps://www.opendesktop.org/p/1303420/)
 
 ### How to install and use
 
