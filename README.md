@@ -1,5 +1,7 @@
 # C1B Cards
-🂱 Dark version of C1 card set for Aisleriot (GNOME solitaire game)
+> _C1 Black Cards_
+
+🂱 Dark version of [C1 card set](https://github.com/heychrisd/C1-Cards) for Aisleriot (GNOME solitaire game)
 
 ![C1B Cards](https://github.com/heychrisd/C1B-Cards/blob/master/C1B-Black-Cards-Preview.png)
 
