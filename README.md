@@ -25,10 +25,13 @@ Read "LICENSE" file for more info.
 
 Do you like my work and do you want support it? You can make a donation. Every little support is really appreciated. :heart:
 
-<p align="center">
+<p align="left">
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
 
+**BTC:** 3BRsHyvSd3EL4SN3bXwoRhXsAkV5vbn9xp
+
+**ETH:** 0xe8540961E02E3DF56D27c01fE0736C0149289DDC
 Thanks!
 
 ---
