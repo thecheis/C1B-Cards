@@ -1,9 +1,9 @@
 # C1B Cards
 > _(C1 Black Cards)_
 
-🂱 Dark version of [C1 card set](https://github.com/heychrisd/C1-Cards) for Aisleriot (GNOME solitaire game)
+🂱 Dark version of [C1 card set](https://github.com/thecheis/C1-Cards) for Aisleriot (GNOME solitaire game)
 
-![C1B Cards](https://github.com/heychrisd/C1B-Cards/blob/master/C1B-Black-Cards-Preview.png)
+![C1B Cards](https://github.com/thecheis/C1B-Cards/blob/master/C1B-Black-Cards-Preview.png)
 
 ### Download and vote
 
@@ -37,6 +37,6 @@ Thanks!
 
 ---
 
-Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/hey_chris_d)
+Designed by Chris D. Follow me on [Dribbble](https://dribbble.com/chrisdiaz) | [Twitter](https://twitter.com/the_cheis)
 
 *christiandiaz.design@gmail.com*
