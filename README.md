@@ -29,8 +29,6 @@ Do you like my work and do you want support it? You can make a donation. Every l
   <a href="https://www.paypal.me/ChrisDiaz" target="_blank"><img src="https://i.ibb.co/dpvHPb4/Support-Pay-Pal.png" title="Support with PayPal"></a>
 </p>
 
-**Coinbase Wallet:** @christian_diaz
-
 **ETH**: 0x299C11968Bb3D8aFD41b84F4e31b82B3d677A56d
 
 Thanks!
